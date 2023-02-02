@@ -1,7 +1,9 @@
 # EDA-US_Accidents
 Exploratory Data Analysis on the publicly available US accidents dataset spanning through 6 years (2016 - 2021) to find patterns and insights from the data 
-The dataset has almost 3 million rows and 47 columns. The questions that came across while analyzing the data are as follows:
-Are there more accidents in warmer or colder areas?
+The dataset has almost 3 million rows and 47 columns. 
+
+The questions that came across while analyzing the data are as follows:
+1. Are there more accidents in warmer or colder areas?
 Which 5 states have the highest number of accidents? How about per capita?
 Among the top 100 cities with highest acidents, which states do they belong to?
 Why is New York not present, despite beig the most populous city?
