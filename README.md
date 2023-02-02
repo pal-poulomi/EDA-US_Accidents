@@ -4,13 +4,13 @@ The dataset has almost 3 million rows and 47 columns.
 
 The questions that came across while analyzing the data are as follows:
 1. Are there more accidents in warmer or colder areas?
-Which 5 states have the highest number of accidents? How about per capita?
-Among the top 100 cities with highest acidents, which states do they belong to?
-Why is New York not present, despite beig the most populous city?
-Which states does the top 100 cities with number of accidents belong to?
-Which time of the day has maximum accidents? Similarly which days or months of the year have accidents more frequently?
-What is the trend of the accidents over the years in this data?
-When is the accidents per unit of the traffic the highest?
+2. Which 5 states have the highest number of accidents? How about per capita?
+3. Among the top 100 cities with highest acidents, which states do they belong to?
+4. Why is New York not present, despite beig the most populous city?
+5. Which states does the top 100 cities with number of accidents belong to?
+6. Which time of the day has maximum accidents? Similarly which days or months of the year have accidents more frequently?
+7. What is the trend of the accidents over the years in this data?
+8. When is the accidents per unit of the traffic the highest?
 
 Insights are as follows:
 
